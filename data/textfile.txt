@@ -1,0 +1,1 @@
+Hello this is the first line of text.Hello this is line 2.Line 3 testing, why is there no line breaks.Line 4 wheree is it.this is exmaple 4 fileoutputstream/dataoutputstream and fileinputstream/datainputstream.new line hello testing 
